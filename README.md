@@ -86,11 +86,6 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <!-- Row 1 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x-rekt&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x-rekt&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages Card" width="48%" />
-  </div>
   
   <!-- Row 2 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
