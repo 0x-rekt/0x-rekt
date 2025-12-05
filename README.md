@@ -88,23 +88,23 @@
 <div align="center">
   <!-- Row 1 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sowdarjya&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sowdarjya&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages Card" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=0x-rekt&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x-rekt&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="GitHub Top Languages Card" width="48%" />
   </div>
   
   <!-- Row 2 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sowdarjya&theme=radical" alt="Repos Per Language" width="48%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sowdarjya&theme=radical" alt="Most Commit Language" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x-rekt&theme=radical" alt="Repos Per Language" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x-rekt&theme=radical" alt="Most Commit Language" width="48%" />
   </div>
 
   <!-- Row 3 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sowdarjya&theme=radical&hide_border=false&border=ffffff" alt="GitHub Streak Stats" width="48%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowdarjya&theme=radical" alt="Profile Details Card" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-rekt&theme=radical&hide_border=false&border=ffffff" alt="GitHub Streak Stats" width="48%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x-rekt&theme=radical" alt="Profile Details Card" width="48%" />
   </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sowdarjya&theme=radical&utcOffset=8" width="55%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x-rekt&theme=radical&utcOffset=8" width="55%" />
 </div>
 
 <h2 align="center">
@@ -115,7 +115,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowdarjya&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x-rekt&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Contribution Graph" width="100%" />
 </div>
 
 <br clear="both">
