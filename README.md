@@ -87,22 +87,11 @@
 
 <div align="center">
   
-  <!-- Row 2 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x-rekt&theme=radical" alt="Repos Per Language" width="48%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x-rekt&theme=radical" alt="Most Commit Language" width="48%" />
-  </div>
+[![](https://raw.githubusercontent.com/0x-rekt/0x-rekt/main/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/0x-rekt/0x-rekt/main/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/0x-rekt/0x-rekt/main/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/0x-rekt/0x-rekt/main/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/0x-rekt/0x-rekt/main/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  <!-- Row 3 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-rekt&theme=radical&hide_border=false&border=ffffff" alt="GitHub Streak Stats" width="48%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x-rekt&theme=radical" alt="Profile Details Card" width="48%" />
-  </div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x-rekt&theme=radical&utcOffset=8" width="55%" />
 </div>
-
-<h2 align="center">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
