@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/0x-rekt/0x-rekt/main/profile-summary-card-output/graywhite/4-productive-time.svg)
+```
+
+    
