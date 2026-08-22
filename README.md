@@ -9,7 +9,7 @@
       </h1>
     </br>
       <h1>
-        Full stack developer
+        Full stack developer & AI Engineer
       </h1>
     </summary>
   </ul>
